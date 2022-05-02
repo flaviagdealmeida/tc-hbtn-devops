@@ -1,0 +1,26 @@
+O que é DevOps ? 
+DevOps é uma prática da engenharia de software que tem o objetivo de promover uma integração entre o desenvolvimento e a operação de software.
+O próprio temo "DevOps" é uma contração das palavras development (desenvolvimento) e operations (operações). 
+DevOps defende ciclos de desenvolvimento menores, frequência de implantação aumentada e liberações mais seguras, em alinhamento com os objetivos de negócio.
+
+Quais beneficios em adotar DevOps nas empresas ?
+Segurança, Agilidade nas entregas, Aumento da confiabilidade, Colaboração entre equipes e Redução de custos
+
+Quais são os pilares da cultura DevOps ? 
+Comunicação, Colaboração, Automação e Monitoramento
+
+
+O que é CALMS ?
+O CALMS é um acrônimo para Culture (Cultura), Automation (Automação), LeanIT (Metodologia Lean), Measurement (Mensuração) e Sharing (Compartilhamento).
+
+O que faz um Engenheiro DevOps ?
+Introduz processos, ferramentas e metodologias para equilibrar as necessidades ao longo de todo o ciclo de vida do desenvolvimento de um software, desde a criação do código e a implantação até as etapas de manutenção e atualização.
+
+O que é DevSecOps?
+DevSecOps é um meio de integrar a segurança ao processo de desenvolvimento e também um mindset em que a segurança é considerada responsabilidade de todos os envolvidos na construção de uma grande aplicação.  
+
+Principais ferramentas OpenSource para DevOps
+Jenkins, Git, Docker, Ansible, Grandle, Azure, Grafana
+
+O que é CI/CD: integração e entrega contínuas ?
+é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações.
